@@ -1,0 +1,1 @@
+Several examples of TestNG framework implementations are available on GitHub, often integrated with Selenium WebDriver for web automation. These repositories demonstrate various aspects of TestNG, including:
